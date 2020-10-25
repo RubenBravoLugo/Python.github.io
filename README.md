@@ -6,7 +6,22 @@
 <html>
 <body>
 
-h
+<html>
+<body>
+
+
+
+<html>
+<head>
+<style>
+body {
+background-image: url(https://tse3.mm.bing.net/th?id=OIP.YtSC2C4uqm-I4BTH5mR6ogHaFF&pid=Api&P=0&w=229&h=158);
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
 
 
 
@@ -26,38 +41,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </html>
 
 
-<div class="mx_auto" 
 
-          <p class="w3-large"><b><i  w3-text-teal"></i>text</b></p>
-          <p>bla22</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-           </div>
-          </div>
-          <p>bla23</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            </div>
-             
-            </div>
-          </div>
-          <p>bla24</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <
-          </div>
-          <p>Medbla25a</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            </div>
-          </div>
-          <br>
-
-         
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
-          </div>
-          <br>
-        </div>
-      </div><br>
 
     <!-- End Left Column -->
-    </div>
+   
 
     <!-- Right Column -->
     <div class="w3-twothird">
@@ -67,8 +54,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b> For link to Friction Ball click <a href="https://scratch.mit.edu/projects/430861276/">HERE</a>  . </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Friction ball</span></h6>
-          <iframe src="https://scratch.mit.edu/projects/430861276/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-          <p>\ bla.</p>
+
+
+          <iframe height="400px" width="100%" src="https://repl.it/@rfanova/UncomfortableHeavyBoard?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+          
+          
+          <p>\ <iframe height="400px" width="100%" src="https://repl.it/@rfanova/UncomfortableHeavyBoard?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe></p>
           <hr>
         </div>
         <div class="w3-container">
