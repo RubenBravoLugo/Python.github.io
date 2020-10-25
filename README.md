@@ -50,7 +50,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Rubens Portfolio</h2>
         <div class="w3-container">
-          <h5> </h5>
+          
+
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Rock Paper Scissors program</span></h6>
 
 
@@ -61,7 +62,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 .</b></h5>
+          
+
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Master mind game</h6>
 
           
@@ -71,7 +73,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5   .</b></h5>
+          
+
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> </h6>
          
 
