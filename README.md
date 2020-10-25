@@ -1,6 +1,5 @@
 # Python.github.io
 
-<!DOCTYPE html>
 
 <html>
 <body>
@@ -73,7 +72,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <h5   .</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Costume game</h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> </h6>
          
 
 
